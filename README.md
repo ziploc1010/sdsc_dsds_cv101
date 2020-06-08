@@ -1,5 +1,5 @@
 # Data Science Development Series
-brought to you by Southern Data Science, TAB, Pandera Systems
+brought to you by [Southern Data Science](https://www.southerndatascience.com/), [TAB](http://www.techandbeers.com/), [Pandera Systems](https://www.panderasystems.com/)
 
 ## Session 2: Computer Vision 101
 
