@@ -7,7 +7,7 @@ import datetime
 from pycococreatortools import pycococreatortools
 from PIL import Image
 
-dataDir = '../data/drinks/'
+dataDir = '/content/gdrive/My Drive/deeplearning/data/drinks/'
 
 input_filename = 'segmentation_test.json'
 
