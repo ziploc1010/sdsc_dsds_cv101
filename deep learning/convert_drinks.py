@@ -9,9 +9,9 @@ from PIL import Image
 
 dataDir = '/content/gdrive/My Drive/deeplearning/data/drinks/'
 
-input_filename = 'segmentation_test.json'
+input_filename = 'segmentation_train.json'
 
-output_filename = 'segmentation_test_coco.json'
+output_filename = 'segmentation_train_coco.json'
 
 def load_json(data_path, jsfile):
     with open(os.path.join(data_path, jsfile), 'r') as f:
